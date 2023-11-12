@@ -18,7 +18,7 @@ I'm thrilled to have you here! I'm Sravya, a recent graduate in Electrical and E
 ## Why This Portfolio?
 
 This portfolio isn't just a showcase; it's a snapshot of my journey so far, filled with curiosity and the eagerness to contribute. I believe in the power of continuous learning, and this website is a dynamic representation of my journey into the professional world.
-Get a quick view [HERE]()
+Get a quick view [HERE]( https://suslifzz.github.io/portfolio_website/)
 
 ## Explore and Reach Out
 
